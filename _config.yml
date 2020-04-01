@@ -102,7 +102,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:didwuddk@gmail.com
+      url: mailto:didwuddk@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -111,13 +111,13 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-       url: "https://facebook.com/didwuddk"
+      url: "https://facebook.com/didwuddk"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/jungah12"
+      url: "https://github.com/jungah12"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-       url: "https://www.instagram.com/jaja_bus/"
+      url: "https://www.instagram.com/jaja_bus/"
 
 # Site Footer
 footer:
